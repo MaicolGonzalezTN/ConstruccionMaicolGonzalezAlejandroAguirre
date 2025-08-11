@@ -7,7 +7,7 @@
 - [Jorge Alegandro Aguirre Gonzalez](https://github.com/AlejandroGonzalez7)
 - [Nombre del Integrante 3](enlace-al-perfil-github) 
 # Tecnología en que se Desarrolló
-jAVA
+JAVA
 # Nombre del Proyecto
 Funcionamiento de la Aplicación de Gestión de Información de una Clínica
 
