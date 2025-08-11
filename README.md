@@ -3,9 +3,11 @@
 # ConstruccionDeSoftware2
 
 # Integrantes del Equipo
-- [Maicol Alexis Gonzalez Ruiz](enlace-al-perfil-github)
-- [Jorge Alegandro Aguirre Gonzalez](https://github.com/AlejandroGonzalez7)
-- [Nombre del Integrante 3](enlace-al-perfil-github) 
+- [Maicol Alexis Gonzalez Ruiz] Hora (4-6)(enlace-al-perfil-github)
+- [Jorge Alegandro Aguirre Gonzalez] Hora 4-6)(https://github.com/AlejandroGonzalez7)
+- [Brandon Gallego Cañas] Hora (4-6)(https://github.com/BrandonGallego07)
+- [Edwin plata jimenez]Hora (4-6)(https://github.com/eplata123)
+ 
 # Tecnología en que se Desarrolló
 JAVA
 # Nombre del Proyecto
