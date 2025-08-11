@@ -3,7 +3,7 @@
 # ConstruccionDeSoftware2
 
 # Integrantes del Equipo
-- [Maicol Alexis Gonzalez Ruiz] Hora (4-6)(enlace-al-perfil-github)
+- [Maicol Alexis Gonzalez Ruiz] Hora (4-6)(https://github.com/MaicolGonzalezTN)
 - [Jorge Alegandro Aguirre Gonzalez] Hora 4-6)(https://github.com/AlejandroGonzalez7)
 - [Brandon Gallego Cañas] Hora (4-6)(https://github.com/BrandonGallego07)
 - [Edwin plata jimenez]Hora (4-6)(https://github.com/eplata123)
